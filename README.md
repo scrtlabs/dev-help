@@ -12,3 +12,7 @@ Tags we currently use are:
 - environment: the issue is related to an environment setup issue
 - nodes: the issue is related to node-running NOTE: at this time, we are not managing node-running issues in this repo. 
 - rust: the issue is related to the use of Rust
+
+
+***NOTE***
+This system is still under development. While this repo is public, we are still streamlining our tagging and management process. 
