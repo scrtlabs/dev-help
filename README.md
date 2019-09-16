@@ -3,7 +3,7 @@
 This knowledge-base helps us track, discuss, and solve issues developers experience at any point in working with Enigma.
 Stages we currently use are: 
 - new: the issue has just been opened
-- assigned: someone is looking into the issue
+- in-progress: someone is looking into the issue
 - escalated: the issue requires discussion with specific repo owners
 - resolved: the issue has been resolved (and closed)
 
